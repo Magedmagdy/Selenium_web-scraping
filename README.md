@@ -26,9 +26,10 @@ Before running the project, ensure you have the following installed:
    git clone https://github.com/your-username/linkedin-web-scraper.git
    cd linkedin-web-scraper
 2. Install required dependencies:
+   ```bash
     pip install selenium beautifulsoup4 pandas pwinput
 
-3. Download the appropriate version of ChromeDriver and place it in a directory.
+3.  Download the appropriate version of ChromeDriver and place it in a directory.
    (https://getwebdriver.com/chromedriver#stable)
 
 
